@@ -1,0 +1,20 @@
+mkdir pages
+
+cd pages
+
+echo “Hello world, my name xerxez7” >> index.html
+
+mkdir pages = membuat folder
+Dan perintah 3 akan membuat file bernama index.html
+
+git init
+
+git add .
+
+git commit -m “init”
+
+git remote add origin https://github.com/xerxez7/username.github.io.git
+
+git push -u origin master
+
+Masukan email anda dan masukan password github anda dan selesai
